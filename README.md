@@ -1,0 +1,1 @@
+Alzheimer's disease detection system using a Convolutional Neural            Network (CNN) a Deep Learning technique and a Flask web interface with HTML and CSS as the front-end. The main objective is to design an end-to-end framework for early detection of Alzheimer’s disease and medical image classification for various AD stages.
